@@ -6,6 +6,7 @@ import {
 	ArticleMedia,
 } from '../components/layout/Article'
 
+
 export default function AboutPage() {
 	return (
 		<Layout>
