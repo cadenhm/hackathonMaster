@@ -10,8 +10,10 @@ export default function SupportPage() {
 	return (
 		<Layout>
 			<Article>
-				<ArticleContent title="Support">
-					<p>Add your support content here.</p>
+				<ArticleContent title="Support Local Involvment">
+					<p><span>Want to get paid for being outside?</span>
+					<span>Become a certified local guide for specific fields of interest.</span>
+					<span>Share your interests with the world and grow community involvment with the outdoors.</span></p>
 				</ArticleContent>
 
 				<ArticleMedia>
